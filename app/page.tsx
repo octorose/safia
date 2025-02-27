@@ -568,7 +568,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="font-bold">
-                  Outcome: CRs will not just be representatives—they will be
+                  Outcome: CRs will not just be representatives they will be
                   active leaders shaping Rotaract Mediterranean&apos;s future.
                 </p>
               </div>
@@ -836,7 +836,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-slate-800">
-                  Outcome: We don&apos;t just launch projects—we ensure they
+                  Outcome: We don&apos;t just launch projects we ensure they
                   continue and grow.
                 </p>
               </div>
